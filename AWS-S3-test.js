@@ -1,4 +1,5 @@
 //AWS-S3-test.js
+//The MIT License (MIT)
 require('dotenv').config() // reading variables from .env
 const AWS = require('aws-sdk');
 const fs = require('fs');
